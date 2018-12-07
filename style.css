@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+   background-color:#ffffe6; 
+}
+.nav{
+    height:250px;
+    width:100%;
+    background-image:url("images/close-up-of-motherboard_4460x4460.jpg");
+    background-size: cover;
+
+}
+.nav h1{
+    text-shadow: 3px 3px black;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3em;
+    letter-spacing: 3px;
+    color: #ffffe6;
+    text-align:center;
+    position: relative;
+    top:95px;
+}
+.content1{
+    background-color: #1a1a00;
+    height:700px;
+    width:50%;
+    display: inline-block;
+    float: right;
+}
+.content2{
+    background-image:url("images/mentalhealth.PNG");
+    background-size:contain;
+    height:700px;
+    width:50%;
+    display: inline-block;
+    background-repeat: no-repeat;   
+}
+.content1 h1{
+    font-family: 'Orbitron', sans-serif;
+    text-align:center;
+    color: #ffffe6;
+}
+.content1 p{
+    font-family: 'Chivo', sans-serif;
+    color: #ffffe6;
+    font-size: 1.5em;
+}
+
+
